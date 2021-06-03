@@ -1,2 +1,2 @@
-# TimeTableManagement
-WE_R_99
+# Timetable-Manager
+SPM project
